@@ -1,7 +1,7 @@
-www/
-*.swp
+!www/plugins/MetaCsv/*
+
+www/*
+
+*swp
 *.DS_Store
 *.vagrant
-
-!www/plugins/MetaCsv
-
