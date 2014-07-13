@@ -15,12 +15,19 @@ The project plugin lives in the root/plugin folder and is automatically loaded i
 
 # Pre-reqs. 
 On osx: 
+
 [Vagrant] (http://www.vagrantup.com/) 
+
 [Virtual Box] (http://www.virtualbox.org/)
+
 
 # Specs. 
 The development server is set to run with the following dependencies. 
+
 Ubuntu 12.01
+
 mysql-server
+
 apache2 
+
 php5 
