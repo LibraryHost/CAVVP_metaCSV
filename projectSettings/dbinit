@@ -1,0 +1,3 @@
+create database omeka;
+grant all privileges on omeka.* to root@localhost;
+flush privileges;
