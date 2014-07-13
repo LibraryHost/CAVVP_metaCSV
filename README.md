@@ -13,6 +13,9 @@ With the server running, the Omeka site files will be located in the root/www/ d
 
 The project plugin lives in the root/plugin folder and is automatically loaded into the development server upon `vagrant up` command. 
 
+Admin User: admin
+Admin Pass: password
+
 # Pre-reqs. 
 On osx: 
 
